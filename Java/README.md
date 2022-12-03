@@ -24,7 +24,7 @@ public class Main {
 	/*  Constructeur de la classe Main  */
 	public Main(int nbVente) {
 	
-		this.nbVente = nbVente; // Notez l'utilisation du préfixe this
+		this.nbVente = nbVente; // Notez l'utilisation du préfixe *this*
 		
 		// Contenu du constructeur
 	

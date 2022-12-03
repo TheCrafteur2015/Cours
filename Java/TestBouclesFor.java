@@ -7,8 +7,8 @@ public class TestBouclesFor {
          
             System.out.println("A");
           
-        }
-      
+	}
+		
         /*  Deuxième boucle  */
         for (int i = 0, y = 20; i < 20 && y > 0; i++, y--) {
          

@@ -2,8 +2,7 @@ Dans ce répertoire se trouve des exemples de code en Java ainsi que des explica
 
 Syntaxe de base d'un programme Java :
 
-{
-<code>
+```bash
 public class Main {
 
 	public static void main(String[] args) {
@@ -13,5 +12,4 @@ public class Main {
 	}
 
 }
-</code>
-}
+```

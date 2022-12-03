@@ -21,6 +21,7 @@ public class Main {
 
 	private int nbVente; // Variable
 	
+	/*  Constructeur de la classe Main  */
 	public Main(int nbVente) {
 	
 		this.nbVente = nbVente;
@@ -29,6 +30,7 @@ public class Main {
 	
 	}
 	
+	/*  Accesseur  */
 	public int getVente() {
 	
 		return this.nbVente;

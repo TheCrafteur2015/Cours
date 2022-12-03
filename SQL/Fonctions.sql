@@ -6,9 +6,9 @@ From	Etudiant;
 Select	SUM( salaire )
 From	Emploi;
 
-/*  Cette requête calcul le total des salaires de tous les employés  */
+/*  Cette requête calcule le total des salaires de tous les employés  */
 
 Select	AVG( moy )
 From	Note;
 
-/*  Cette requête calcul la moyenne des notes  */
+/*  Cette requête calcule la moyenne des notes  */

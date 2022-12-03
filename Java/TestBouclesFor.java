@@ -15,6 +15,17 @@ public class TestBouclesFor {
             System.out.println( i + y );
           
         }
+        
+        char[] arr = { 'A', 'B', 'C', 'D', 'E', 'F', 'G' };
+        
+        /*  Troisième boucle  */
+        
+        /*  Cette boucle itère sur les valeurs du tableau de caractères arr  */
+        for (char c : arr) {
+         
+            System.out.println( c );
+            
+        }
     
     }
 

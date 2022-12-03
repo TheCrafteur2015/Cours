@@ -1,6 +1,6 @@
 SELECT	*
 FROM	Etudiant
-LIMIT	5, 3;
+LIMIT	3, 5;
 
 -- ou
 

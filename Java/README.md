@@ -4,12 +4,12 @@ Syntaxe de base d'un programme Java :
 
 <code>
 public class Main {
-  
-  public static void main(String[] args) {
-  
-    // Insérez votre code ici
-      
-  }
-  
+
+	public static void main(String[] args) {
+	
+		// Insérez votre code ici
+	
+	}
+
 }
 </code>

@@ -1,11 +1,5 @@
 SELECT	*
 FROM	Etudiant
-LIMIT	3, 5;
-
--- ou
-
-SELECT	*
-FROM	Etudiant
 OFFSET	3
 LIMIT	5;
 

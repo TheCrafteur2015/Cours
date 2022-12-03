@@ -13,3 +13,27 @@ public class Main {
 
 }
 ```
+
+Syntaxe de base d'une classe objet :
+
+```bash
+public class Main {
+
+	private int nbVente; // Variable
+	
+	public Main(int nbVente) {
+	
+		this.nbVente = nbVente;
+		
+		// Contenu du constructeur
+	
+	}
+	
+	public int getVente() {
+	
+		return this.nbVente;
+	
+	}
+
+}
+```

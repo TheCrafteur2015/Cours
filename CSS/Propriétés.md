@@ -15,7 +15,9 @@ __Les alignements :__
 * text-align : cette propriété permet d'aligner le texte
   * valeurs : left, right, center, justify
 * vertical-align : cette propriété permet d'aligner verticalement un objet
-  * valeurs : baseline, *px*|*pc*|*em*|*%*, sub, super, top, text-top, middle, bottom, text-bottom
+  * valeurs : baseline, *px* | *pc* | *em* | *%*, sub, super, top, text-top, middle, bottom, text-bottom
+* text-align-last : cette propriété permet de définir la manière dont la dernière ligne d'un texte est alignée
+  * valeurs : left, right, center, justify, start, end
 
 __Les propriétés de tables :__
 

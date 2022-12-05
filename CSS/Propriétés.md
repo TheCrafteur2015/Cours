@@ -9,5 +9,5 @@ __Les propriétés communes :__
 
 __Les propriétés de tables :__
 
-* border-collapse : cette propriété permet de fusionner les bordures de chaque cellule d'une table en une seule bordure, la propriété doit être appliquée à la balise *<table>*
+* border-collapse : cette propriété permet de fusionner les bordures de chaque cellule d'une table en une seule bordure, la propriété doit être appliquée à la balise &lttable>
   * valeurs : separate, collapse

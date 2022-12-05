@@ -7,17 +7,22 @@
 		
 		<script>
 			
+			/*  Cette fonction remplace le contenu des balises possédant l'identifiant "demo" par "Hello JavaScript!"   */
 			function replace() {
-			
-				document.getElementById("demo").innerHTML="Hello JavaScript!"
-				
+			    document.getElementById("demo").innerHTML="Hello JavaScript!";
 			}
 			
+			/* Cette fonction change la couleur du style des balises possédant l'identifiant "demo" en bleu */
 			function changeColor() {
-				
-				document.getElementById("demo").style.color="blue"
-			
+			    document.getElementById("demo").style.color="blue";
 			}
+			
+			/* Les propriétés CSS en JavaScript doivent êtres écrites en lowerCamelCase ex
+			 *
+			 * En CSS : text-decoration-line: underline;
+			 * 
+			 * En JavaScript : style.textDecorationLine="underline";
+			**/
 			
 		</script>
 		

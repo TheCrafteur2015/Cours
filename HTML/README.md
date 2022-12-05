@@ -8,6 +8,12 @@ Ce répertoire est dédié au HTML.
 	
 		<meta charset="UTF-8">
 		
+		<meta name="description" content="">
+  		<meta name="keywords"    content="">
+ 		<meta name="author"      content="">
+		
+ 		<meta name="viewport"    content="width=device-width, initial-scale=1.0">
+		
 		<link rel="stylesheet" href="" media="all" type="text/css">
 		
 		<title></title>

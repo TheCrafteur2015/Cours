@@ -1,6 +1,6 @@
 #Ici se trouve une liste des propriétés CSS#
 
-_Les propriétés communes :_
+__Les propriétés communes :__
 
 * 1
 * 2

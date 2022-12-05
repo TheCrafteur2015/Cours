@@ -1,4 +1,4 @@
-#Ici se trouve une liste des propriétés CSS
+# Ici se trouve une liste des propriétés CSS
 
 __Les propriétés communes :__
 

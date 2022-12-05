@@ -28,6 +28,7 @@ Ce répertoire est dédié au HTML.
 		
 		</header>
 		
+		
 		<section>
 		
 			
@@ -39,17 +40,20 @@ Ce répertoire est dédié au HTML.
 		
 		</section>
 		
+		
 		<aside>
 		
 			
 		
 		</aside>
 		
+		
 		<footer>
 		
 		
 		
 		</footer>
+		
 		
 		<script>
 		

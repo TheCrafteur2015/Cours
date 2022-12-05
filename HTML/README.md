@@ -11,6 +11,12 @@ Ce répertoire est dédié au HTML.
 		<link rel="stylesheet" href="" media="all" type="text/css">
 		
 		<title></title>
+		
+		<style>
+		
+		
+		
+		</style>
 	
 	</head>
 	
@@ -44,6 +50,12 @@ Ce répertoire est dédié au HTML.
 		
 		
 		</footer>
+		
+		<script>
+		
+		
+		
+		</script>
 	
 	</body>
 

@@ -1,0 +1,1 @@
+Ce répertoire est dédié au PHP.

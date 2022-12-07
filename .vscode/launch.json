@@ -5,6 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Launch Table",
+            "request": "launch",
+            "mainClass": "Table",
+            "projectName": "Cours_3864704"
+        },
+        {
             "type": "msedge",
             "request": "launch",
             "name": "Open JavaScript.html",

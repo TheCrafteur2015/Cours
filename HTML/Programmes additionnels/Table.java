@@ -15,11 +15,19 @@ public class Table {
      */
     public static void main(String[] args) throws IOException {
 
+        Scanner sc = new Scanner(System.in);
         File filePath = new File("");
+
+        String fileName;
 
         if (args[0] == null || args[0].equals("Default")) {
 
-            filePath = new File("C:\\Users\\" + System.getenv("USERNAME") + "\\Documents");
+            System.out.print("Nom du fichier (sans extension) : ");
+            fileName = sc.nextLine();
+
+            fileName += ".txt";
+
+            filePath = new File("C:\\Users\\" + System.getenv("USERNAME") + "\\Documents\\" + fileName);
 
         } else {
 
@@ -35,8 +43,6 @@ public class Table {
             }
 
         }
-
-        Scanner sc = new Scanner(System.in);
 
         int nbLig;
         int nbCol;

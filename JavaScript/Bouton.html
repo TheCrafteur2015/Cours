@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+    <head>
+
+        <meta charset="UTF-8">
+        <meta name="author" content="Gabriel ROCHE">
+
+        <title>Bouton</title>
+
+        <style>
+
+            body {
+                background-color: lightblue;
+            }
+
+        </style>
+
+        <script>
+
+            function background() {
+
+                var bt = document.getElementsByTag('body');
+
+                if ( bt.style.backgroundColor == 'lightblue' ) {
+
+                    bt.style.backgroundColor = 'white';
+
+                } else {
+
+                    bt.style.backgroundColor = 'lightblue';
+
+                }
+
+            }
+
+        </script>
+
+    </head>
+
+    <body>
+
+        <input type="button" onclick="background()" value="Click Me!">
+
+    </body>
+
+</html>

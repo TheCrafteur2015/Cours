@@ -6,7 +6,7 @@ $var = 5;
 // Affichage
 echo "Ceci est le nombre $var";
 
-// Affiche le type et la valeur
+// Affiche le type et la valeur de la variable $var
 var_dump($var);
 
 // Déclaration d'un tableau de type entier

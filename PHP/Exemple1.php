@@ -3,7 +3,7 @@
 # Déclaration d'une variable de type entier
 $var = 5;
 
-// Affichage
+# Affichage
 echo "Ceci est le nombre $var";
 
 // Affiche le type et la valeur de la variable $var

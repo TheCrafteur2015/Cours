@@ -13,11 +13,7 @@
     <body>
 
         <?php
-
-            
             echo "A";
-            
-
         ?>
 
     </body>

@@ -1,8 +1,8 @@
 <?php
 
-private $nom
-private $lig
-private $col
+private $nom;
+private $lig;
+private $col;
 
 public function __construct($nom, $lig, $col) {
  

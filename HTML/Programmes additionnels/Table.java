@@ -4,8 +4,9 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 /**
+ * Date : 2 déc. 2022
+ *
  * @author Gabriel ROCHE
- * @date 2 déc. 2022
  */
 public class Table {
 
